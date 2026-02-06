@@ -1730,55 +1730,6 @@ a {
 .cid-tJS9NNcTLZ .mbr-section-title {
   color: #ffffff;
 }
-.cid-vagBhKxyNi {
-  padding-top: 10rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-vagBhKxyNi .item-subtitle {
-  line-height: 1.2;
-  color: #000000;
-}
-.cid-vagBhKxyNi img,
-.cid-vagBhKxyNi .item-img {
-  width: 100%;
-  height: 100%;
-  height: 400px;
-  object-fit: cover;
-}
-.cid-vagBhKxyNi .item:focus,
-.cid-vagBhKxyNi span:focus {
-  outline: none;
-}
-.cid-vagBhKxyNi .item {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-vagBhKxyNi .item {
-    margin-bottom: 1rem;
-  }
-}
-.cid-vagBhKxyNi .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-.cid-vagBhKxyNi .mbr-section-title {
-  color: #232323;
-  text-align: center;
-}
-.cid-vagBhKxyNi .mbr-text,
-.cid-vagBhKxyNi .mbr-section-btn {
-  color: #232323;
-}
-.cid-vagBhKxyNi .item-title {
-  color: #232323;
-}
-.cid-vagBhKxyNi .content-head {
-  max-width: 800px;
-}
 .cid-v9NJYVIs52 {
   z-index: 1000;
   width: 100%;
@@ -2339,8 +2290,8 @@ a {
   }
 }
 .cid-v9NLmvT1t1 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 10rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
 }
 .cid-v9NLmvT1t1 .row {
@@ -2371,6 +2322,55 @@ a {
 }
 .cid-v9NLmvT1t1 .row {
   align-items: center;
+}
+.cid-vagBhKxyNi {
+  padding-top: 10rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vagBhKxyNi .item-subtitle {
+  line-height: 1.2;
+  color: #000000;
+}
+.cid-vagBhKxyNi img,
+.cid-vagBhKxyNi .item-img {
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-vagBhKxyNi .item:focus,
+.cid-vagBhKxyNi span:focus {
+  outline: none;
+}
+.cid-vagBhKxyNi .item {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-vagBhKxyNi .item {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vagBhKxyNi .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-vagBhKxyNi .mbr-section-title {
+  color: #232323;
+  text-align: center;
+}
+.cid-vagBhKxyNi .mbr-text,
+.cid-vagBhKxyNi .mbr-section-btn {
+  color: #232323;
+}
+.cid-vagBhKxyNi .item-title {
+  color: #232323;
+}
+.cid-vagBhKxyNi .content-head {
+  max-width: 800px;
 }
 .cid-v9NJYXO1PJ {
   padding-top: 6rem;
